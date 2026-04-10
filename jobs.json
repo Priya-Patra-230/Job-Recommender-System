@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "title": "Junior NLP Engineer",
+    "company": "Acme AI Labs",
+    "description": "We are looking for a Junior NLP Engineer with experience in Python, spaCy, transformers, and text classification. Responsibilities include building resume parsers and matching algorithms.",
+    "skills": ["python", "nlp", "transformers", "spacy", "pandas"]
+  },
+  {
+    "id": 2,
+    "title": "Data Scientist - Recommendation",
+    "company": "JobsMatch Inc.",
+    "description": "Build recommendation systems using embeddings, cosine similarity, and machine learning pipelines. Experience with scikit-learn and sentence-transformers preferred.",
+    "skills": ["machine learning", "python", "scikit-learn", "embeddings"]
+  },
+  {
+    "id": 3,
+    "title": "Backend Developer (Flask)",
+    "company": "Webify",
+    "description": "Develop REST APIs in Flask/Django. Knowledge of Docker and AWS is a plus.",
+    "skills": ["flask", "python", "docker", "aws"]
+  },
+  {
+    "id": 4,
+    "title": "Full Stack Developer (MERN)",
+    "company": "TechNova Solutions",
+    "description": "Work on MERN stack projects including React frontend, Node.js backend, and MongoDB. Build job portals and recommendation systems.",
+    "skills": ["react", "nodejs", "mongodb", "express", "javascript"]
+  },
+  {
+    "id": 5,
+    "title": "Machine Learning Engineer",
+    "company": "AI Recruiters",
+    "description": "Develop job recommendation algorithms using collaborative filtering and content-based filtering. Work with resume parsing and skill extraction.",
+    "skills": ["python", "scikit-learn", "tensorflow", "pandas", "numpy"]
+  },
+  {
+    "id": 6,
+    "title": "Frontend Developer (React)",
+    "company": "CareerConnect",
+    "description": "Build responsive job portals using React, Tailwind CSS, and state management. Focus on job search UI and dashboard components.",
+    "skills": ["react", "javascript", "tailwind", "redux", "html5"]
+  },
+  {
+    "id": 7,
+    "title": "DevOps Engineer ",
+    "company": "CloudHire",
+    "description": "Deploy ML models and web applications using Docker, Kubernetes, and AWS. Set up CI/CD pipelines for job portal backend.",
+    "skills": ["docker", "kubernetes", "aws", "jenkins", "linux"]
+  },
+  {
+    "id": 8,
+    "title": "AI Engineer",
+    "company": "SmartHire AI",
+    "description": "Create NLP-based resume parsing systems using OCR, entity recognition, and skill extraction for automated candidate screening.",
+    "skills": ["python", "nlp", "opencv", "spacy", "pdfplumber"]
+  },
+  {
+    "id": 9,
+    "title": "Backend Developer (Node.js)",
+    "company": "InternMatch",
+    "description": "Build scalable APIs for job portals using Node.js, Express, and MongoDB. Implement authentication, job matching, and notification systems.",
+    "skills": ["nodejs", "express", "mongodb", "jwt", "socket.io"]
+  }
+
+
+]
