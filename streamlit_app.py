@@ -62,7 +62,7 @@ uploaded_file = st.file_uploader("Upload your Resume", type=["pdf", "docx"])
 
 if uploaded_file:
     os.makedirs("tmp_uploads", exist_ok=True)
-    file_path = os.path.join("tmp_uploads", uploaded_file.name)
+    file_path = os.path.join("tmp_uploads", "uploaded_resume." + uploaded_file.name.split(".")[-1])
 
     with open(file_path, "wb") as f:
         f.write(uploaded_file.getbuffer())
